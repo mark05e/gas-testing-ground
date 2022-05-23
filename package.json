@@ -1,0 +1,22 @@
+{
+  "name": "gas-testing-ground",
+  "version": "1.0.0",
+  "description": "Google AppScript (GAS) test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mark05e/gas-testing-ground.git"
+  },
+  "author": "mark05e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mark05e/gas-testing-ground/issues"
+  },
+  "homepage": "https://github.com/mark05e/gas-testing-ground#readme",
+  "dependencies": {
+    "clasp": "^1.0.0"
+  }
+}
